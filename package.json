@@ -1,0 +1,15 @@
+{
+  "name": "api-twitter",
+  "version": "1.0.0",
+  "description": "interacturar con la api de twitter",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "silvina troncoso",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
